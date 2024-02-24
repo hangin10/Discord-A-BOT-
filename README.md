@@ -119,7 +119,7 @@ https://github.com/mishalhossin/Discord-AI-Chatbot/blob/c20f26b0b8f1b6bba2fae8f6
 # Installation steps  🚩
 ### Step 1. 🎬 Git clone repository
 ```
-git clone 
+https://github.com/Spotexa/Discord-A-BOT-.git
 ```
 ### Step 2. 📁 Changing directory to cloned directory
 ```
